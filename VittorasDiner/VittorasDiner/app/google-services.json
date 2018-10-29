@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "331149359174",
+    "firebase_url": "https://androidcollab-5adbf.firebaseio.com",
+    "project_id": "androidcollab-5adbf",
+    "storage_bucket": "androidcollab-5adbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331149359174:android:04db4d12d883b330",
+        "android_client_info": {
+          "package_name": "com.sistosotoledoorcullo.vittorasdiner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331149359174-d0pik2fm9h7boe022a4donjvsogsdsj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sistosotoledoorcullo.vittorasdiner",
+            "certificate_hash": "51ed89dc9c9bf9d1212f0f5997dd88c087188308"
+          }
+        },
+        {
+          "client_id": "331149359174-dlr3sfr5bdodcqno2urukp48pb11vths.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4b3TMgTl4bbT93bczAF-wr8CRkCZeGCk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331149359174-dlr3sfr5bdodcqno2urukp48pb11vths.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
